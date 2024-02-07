@@ -23,4 +23,15 @@ So I was already familar with git due to some previous I have taken like COM S 3
 project that I worked on so this lab was not difficult for me. All I did was I followed the link the instructor
 sent to everyone in the email and created the repo. Then I cloned the repo on my local machine made a few changes 
 in the Readme.md and pus
+-----------------------------------------------------
+
+----------------------------------------------------
+This is a line from RStudio- by Mazin Bashier
+-----------------------------------------------------
+Process for Mazin:
+1) cloned the repo using git clone with terminal
+2) made the changes, I had issues with my Rstudio, and by the time my teammate finished his part, I pulled his commit and made all the changes that I needed to make to fix it.
+3) then i am about to commit and push it.
+
+-----------------------------------------------------
 
