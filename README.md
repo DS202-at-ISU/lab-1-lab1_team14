@@ -34,4 +34,11 @@ Process for Mazin:
 3) then i am about to commit and push it.
 
 -----------------------------------------------------
+This is a line from RStudio - by Bela Banegas
+Process for myself: 
+1. I entered the repo from my team on GitHub and copied the link
+2. After creating a new project, I copied the link from GitHub 
+This is where my first issue arose and I realized I hadn't fully downloaded Git onto my computer and had to refollow steps from Chapter 6. 
+3. After being able to clone to my computer, I opened the readme file and made my changes. 
+4. I will now commit and push it to save my edits 
 
